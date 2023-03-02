@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         EditText passwordEditText = (EditText) findViewById(R.id.editTextPassword);
 
-        Log.i("Values", usernameEditText.getText().toString() + " " + passwordEditText.getText().toString());
+        Log.i("Values", usernameEditText.getText().toString() + " " + passwordEditText.getText().toString() + " " + "Updated from HP Desktop");
 
 
     }
